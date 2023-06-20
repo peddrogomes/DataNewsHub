@@ -1,4 +1,4 @@
-scrapy_env\
-scrapy_proj\data\*
-scrapy_proj\__pycache__\
-scrapy_proj\spiders\__pycache__\
+scrapy_env/
+scrapy_proj/data/*
+scrapy_proj/__pycache__/
+scrapy_proj/spiders/__pycache__/
