@@ -44,6 +44,11 @@ scrapy list
 ```
 * O retorno previsto será uma lista dos spiders do projeto.
 
+- Para executar os Scripts de raspagem execute:
+``` console
+scrapy crawl <nome_do_raspador> -s LOG_FILE=log.txt -o <arquivo_de_saida>.json
+```
+
 ## Sites de notícias que ja possuem raspadores:
 
 - Folha de S.Paulo (https://www.folha.uol.com.br/): A Folha de S.Paulo é um dos principais jornais impressos do Brasil e também possui uma versão online com notícias atualizadas.
